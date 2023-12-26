@@ -1,0 +1,6 @@
+[submodule "api"]
+  path = api
+  url = https://github.com/loak155/root-api
+[submodule "front"]
+  path = front
+  url = https://github.com/loak155/root-front
